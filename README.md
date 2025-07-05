@@ -34,7 +34,7 @@ Wait a minute for handling data and starting server.
 
 <p align="center">
   <img src="assets/images/output_playground2.jpg" width="400"/>
-  <img src="assets/images/output_playground.jpg" width="400"/>
+  <img src="assets/images/ouput_playground.jpg" width="400"/>
 </p>
 
 ### 📘 FastAPI Swagger UI
