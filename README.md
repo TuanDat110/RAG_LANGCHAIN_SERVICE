@@ -30,10 +30,18 @@ uvicorn src.app:app --host "0.0.0.0" --port 5000 --reload
 
 Wait a minute for handling data and starting server.
 
-![Result on playbackground of langchain](assets/images/output_playground2.png)
-![](assets/images/output_playground.png)
+### 🖼️ Langchain Playground
 
-![Result on playbackground of fastapi/docs](assets/images/output_api_docs.png)
+<p align="center">
+  <img src="assets/images/output_playground2.png" width="400"/>
+  <img src="assets/images/output_playground.png" width="400"/>
+</p>
+
+### 📘 FastAPI Swagger UI
+
+<p align="center">
+  <img src="assets/images/output_api_docs.png" width="700"/>
+</p>
 
 ### 1.3 Run service in docker
 
