@@ -33,14 +33,14 @@ Wait a minute for handling data and starting server.
 ### 🖼️ Langchain Playground
 
 <p align="center">
-  <img src="assets/images/output_playground2.png" width="400"/>
-  <img src="assets/images/output_playground.png" width="400"/>
+  <img src="assets/images/output_playground2.jpg" width="400"/>
+  <img src="assets/images/output_playground.jpg" width="400"/>
 </p>
 
 ### 📘 FastAPI Swagger UI
 
 <p align="center">
-  <img src="assets/images/output_api_docs.png" width="700"/>
+  <img src="assets/images/output_api_docs.jgg" width="700"/>
 </p>
 
 ### 1.3 Run service in docker
