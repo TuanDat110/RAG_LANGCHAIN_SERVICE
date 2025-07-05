@@ -40,7 +40,7 @@ Wait a minute for handling data and starting server.
 ### 📘 FastAPI Swagger UI
 
 <p align="center">
-  <img src="assets/images/output_api_docs.jgg" width="700"/>
+  <img src="assets/images/output_api_docs.jpg" width="700"/>
 </p>
 
 ### 1.3 Run service in docker
